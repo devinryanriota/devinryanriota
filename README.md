@@ -8,12 +8,10 @@ I'm a Software Engineer who enjoys working on the whole stack (backend, frontend
 
 Here are some ideas to get you started:
 
-- 👯 I’m looking to collaborate on projects that will deliver social impact (I have an interest in solving climate change issues)
-
-- 🔭 I’m currently working full-time at Traveloka
-- 🔭 I’m currently working on several side projects
-- 🌱 I’m currently learning NoSQL Databases, Kubernetes
-- 💬 Ask me about anything (and I mean anything)
-- 📫 How to reach me: email
-- 😄 Pronouns: he/him
+- 👯 I’m looking to collaborate on __projects that will deliver social impact (I have an interest in solving climate change issues)__
+- 🔭 I’m currently working full-time at __Traveloka__ and on several __side projects (such as [yukbantubisnis.online](https://yukbantubisnis.online/))__
+- 🌱 I’m currently learning __NoSQL Databases, Kubernetes__
+- 💬 Ask me about __anything (and I mean anything)__
+- 📫 How to reach me: __email__
+- 😄 Pronouns: __he/him__
 - ⚡ Fun fact: I'm not good at writing this 😔
