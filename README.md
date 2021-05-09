@@ -6,12 +6,10 @@ I'm a Software Engineer who enjoys working on the whole stack (backend, frontend
 **devinryanriota/devinryanriota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
+Some bits:
 - 👯 I’m looking to collaborate on __projects that will deliver social impact (I have an interest in solving climate change issues)__
-- 🔭 I’m currently working full-time at __Traveloka__ and on several __side projects (such as [yukbantubisnis.online](https://yukbantubisnis.online/))__
+- 🔭 I’m currently working full-time at __[Traveloka](https://www.traveloka.com/)__ and on several __side projects (such as [yukbantubisnis.online](https://yukbantubisnis.online/))__
 - 🌱 I’m currently learning __NoSQL Databases, Kubernetes__
-- 💬 Ask me about __anything (and I mean anything)__
-- 📫 How to reach me: __email__
+- 💬 Ask me about __anything__
+- 📫 Contact me via __[email](mailto:devinryanriota@gmail.com)__
 - 😄 Pronouns: __he/him__
-- ⚡ Fun fact: I'm not good at writing this 😔
