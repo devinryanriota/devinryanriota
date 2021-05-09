@@ -11,5 +11,5 @@ Some bits:
 - 🔭 I’m currently working full-time at [Traveloka](https://www.traveloka.com/) and on several side projects (such as [yukbantubisnis.online](https://yukbantubisnis.online/))
 - 🌱 I’m currently learning __NoSQL Databases, Kubernetes__
 - 💬 Ask me about __anything__
-- 📫 Contact me via __[email](mailto:devinryanriota@gmail.com)__
+- 📫 Find me on __[Github](https://github.com/devinryanriota)__, __[LinkedIn](https://linkedin.com/in/devinryanriota)__ or via __[email](mailto:devinryanriota@gmail.com)__
 - 😄 Pronouns: __he/him__
