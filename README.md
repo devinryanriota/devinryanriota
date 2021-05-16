@@ -8,7 +8,7 @@ I'm a Software Engineer who enjoys working on the whole stack (backend, frontend
 
 Some bits:
 - 👯 I’m looking to collaborate on projects that will deliver social impact (I have an interest in solving climate change issues)
-- 🔭 I’m currently working full-time at [Traveloka](https://www.traveloka.com/) and on several side projects (such as [yukbantubisnis.online](https://yukbantubisnis.online/))
+- 🔭 I’m currently working full-time at [Traveloka](https://www.traveloka.com/) and on several side projects (such as [yukbantubisnis.online](http://yukbantubisnisonline.com/))
 - 🌱 I’m currently learning __NoSQL Databases, Kubernetes__
 - 💬 Ask me about __anything__
 - 📫 Find me on __[Github](https://github.com/devinryanriota)__, __[LinkedIn](https://linkedin.com/in/devinryanriota)__ or via __[email](mailto:devinryanriota@gmail.com)__
