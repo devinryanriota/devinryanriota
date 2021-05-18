@@ -1,6 +1,6 @@
 ### Hi there, I'm Devin Ryan Riota 👋
 
-I'm a Software Engineer who enjoys working on the whole stack (backend, frontend, infra & more!) and experimenting with new approaches/tech stacks. I sometimes share my experiences through writing (find it on my [blog](https://devinryanriota.com/blog)) and I co-host a tech related podcast at [positif.dev](https://positif.dev/) (it's in Indonesian 😆).
+I'm a Software Engineer who enjoys working on the whole stack (backend, frontend, infra & more!) and experimenting with new approaches/tech stacks. I sometimes share my experiences through writing (find it on my [blog](https://devinryanriota.com/blog)) and I co-host a tech related podcast at [positif.dev](https://positif.dev/) (it's in Indonesian 🇮🇩).
 
 <!--
 **devinryanriota/devinryanriota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
