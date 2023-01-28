@@ -12,4 +12,3 @@ Some bits:
 - 🌱 I’m currently learning __NoSQL Databases, Kubernetes__
 - 💬 Ask me about __anything__
 - 📫 Find me on __[Github](https://github.com/devinryanriota)__, __[LinkedIn](https://linkedin.com/in/devinryanriota)__ or via __[email](mailto:devinryanriota@gmail.com)__
-- 😄 Pronouns: __he/him__
