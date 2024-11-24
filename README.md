@@ -1,6 +1,6 @@
 ### Hi there, I'm Devin Ryan Riota 👋
 
-I'm a Software Engineer who enjoys working on the whole stack (backend, frontend, infra & more!) and experimenting with new approaches/tech stacks. Recently, I'm gaining more interest in hardware. I sometimes share my experiences through writing (find it on my [blog](https://devinryanriota.com/blog)).
+I'm a Software Engineer who enjoys working on the whole stack (backend, frontend, infra & more!) and experimenting with new approaches/tech stacks. Recently, I'm gaining more interest in hardware and networking. I sometimes share my experiences through writing (find it on my [blog](https://devinryanriota.com/blog)).
 
 <!--
 **devinryanriota/devinryanriota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
