@@ -15,12 +15,10 @@ Over the span of my 8-year career, I've worked across companies of different sta
 Alongside these full time roles, I'm also working as a tech consultant for several companies. The role varies, from helping businesses streamline their internal operations through tech, to helping companies build the MVP of their products early in their journey.
 
 ### Find Me
-Find me on:
 - [Github, obviously](https://github.com/devinryanriota)
 - [LinkedIn](https://linkedin.com/in/devinryanriota)
 - [Email](mailto:devinryanriota@gmail.com)
 
 ### Other Bits
-Some bits:
 - 🌱 I’m currently learning about __Data Centers__
 - 👯 I’m looking to collaborate on projects that will deliver social impact (I have an interest in solving climate change issues)
