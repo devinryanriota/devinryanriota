@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Devin Ryan Riota 👋
 
-I'm a Software Engineer who enjoys working on the whole stack (backend, frontend, infra & more) and loves experimenting with new things!. Recently, I'm gaining more interest in hardware and networking. I sometimes share my experiences through writing (find it on my [blog](https://devinryanriota.com/blog)).
+I'm a Software Engineer who enjoys working on the whole tech stack and loves experimenting with new things!. Recently, I'm gaining more interest in AI, hardware and networking. I sometimes share my experiences through writing (find it on my [blog](https://devinryanriota.com/blog)).
 
 ### Career
 Over the span of my 8-year career, I've worked across companies of different stages and scales: 
@@ -20,5 +20,5 @@ Alongside these full time roles, I'm also working as a tech consultant for sever
 - [Email](mailto:devinryanriota@gmail.com)
 
 ### Other Bits
-- 🌱 I’m currently learning about __Data Centers__
+- 🌱 I’m currently learning about __Data Centers, AI Systems (LLMs, Agentic, and all the related tools)__
 - 👯 I’m looking to collaborate on projects that will deliver social impact (I have an interest in solving climate change issues)
